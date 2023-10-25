@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 
 <div style="display: inline_block" align="center" title="Techs"><br>
   <div>
-    <img title="JavaScript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img title="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"  alt="Java" width="40" height="40"/>&nbsp;
+  <img title="JavaScript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  alt="JavaScript" width="40" height="40"/>&nbsp;
   <img title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  alt="TypeScript" height="40" width="40" />&nbsp;
   <img title="React" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  alt="React" width="40" height="40"/>&nbsp;
   <img title="CSS3" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"   alt="CSS" width="40" height="40"/>&nbsp;
@@ -30,7 +31,6 @@ Here are some ideas to get you started:
   <img title="NodeJS" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"  alt="NodeJS" width="40" height="40"/>&nbsp;
   <img title="Git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"  alt="Git" width="40" height="40"/>&nbsp;
   <img title="Ruby" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg"  alt="Ruby" width="40" height="40"/>&nbsp;
-  <img title="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"  alt="Java" width="40" height="40"/>&nbsp;    
   <img title="C++" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40" width="40" />&nbsp;
   </div>
 </div>
